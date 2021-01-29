@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Tania Boror"
+date: "Spring 2021"
 output: html_document
 ---
 
@@ -13,8 +13,15 @@ Our project will be done using a sequence of save and commits and branch actions
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
+
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+A BOAT beneath a sunny sky,  
+Lingering onward dreamily  
+In an evening of July --  
+Children three that nestle near,  
+Eager eye and willing ear,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
