@@ -19,6 +19,13 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+A neighbor of mine in the village  
+Likes to tell how one spring  
+When she was a girl on the farm, she did  
+A childlike thing.  
+
+One day she asked her father  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
